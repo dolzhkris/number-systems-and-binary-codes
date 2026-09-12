@@ -1,7 +1,7 @@
 # number-systems-and-binary-codes
 Python program for decimal-to-binary conversion and operations with direct, inverse, and two's complement binary codes.
 
-The project was developed as part of university work during my second year of study.
+The project was developed as part of university work during the second year of university.
 
 ## Key Variables
 * a - positive decimal number;
